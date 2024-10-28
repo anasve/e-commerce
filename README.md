@@ -46,4 +46,4 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YourUsername/Simple-Ecommerce-Management-System.git
+   git clone https://github.com/anasve/ecommercce.git
